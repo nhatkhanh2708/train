@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="fLogin\fChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fLogin\fHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fLogin\fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fLogin\fProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManage\fAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="fManage\fCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="fManage\fCoffee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="fManage\fManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManage\fPromotion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="fManage\fStaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="fManage\fStatistical.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="fSell\fPromotion_Cf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSell\fSellCoffee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
